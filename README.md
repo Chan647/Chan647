@@ -1,4 +1,4 @@
-## Hi there 👋
+## Github 공부하기
 
 <!--
 **Chan647/Chan647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
